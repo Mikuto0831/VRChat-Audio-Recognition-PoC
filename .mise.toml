@@ -1,0 +1,8 @@
+[tools]
+python = "3.11"
+uv = "latest"
+rust = "latest"
+
+[env]
+# Python 仮想環境のパス
+VIRTUAL_ENV = "python_ai_services/.venv"
